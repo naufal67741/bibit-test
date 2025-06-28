@@ -1,0 +1,17 @@
+{
+  "capabilities": {
+    "platformName": "mac",
+    "appium:automationName": "Chromium",
+    "browserName": "chrome",
+    "goog:chromeOptions": {
+      "args": [
+        "--remote-allow-origins=*",
+        "--user-data-dir=/Users/ibadurrahmanziaulhaq/Library/Application Support/Google/Chrome",
+        "--profile-directory=Profile 2",
+        "--no-sandbox",
+        "--disable-dev-shm-usage",
+        "--remote-debugging-port=9222"
+      ]
+    }
+  }
+}

@@ -1,0 +1,12 @@
+/Users/naufalhafiz/Downloads/bibit-main/src/test/java/Page/BibitWebPage.java
+/Users/naufalhafiz/Downloads/bibit-main/src/test/java/Page/MyDemoAppAndroidPage.java
+/Users/naufalhafiz/Downloads/bibit-main/src/test/java/Runner/Runner.java
+/Users/naufalhafiz/Downloads/bibit-main/src/test/java/Setup/CapabilitiesLoader.java
+/Users/naufalhafiz/Downloads/bibit-main/src/test/java/Setup/Setup.java
+/Users/naufalhafiz/Downloads/bibit-main/src/test/java/StepDefinitions/StepDefinitionAndroid.java
+/Users/naufalhafiz/Downloads/bibit-main/src/test/java/StepDefinitions/StepDefinitionApi.java
+/Users/naufalhafiz/Downloads/bibit-main/src/test/java/StepDefinitions/StepDefinitionWeb.java
+/Users/naufalhafiz/Downloads/bibit-main/src/test/java/Utility/ApiUtils.java
+/Users/naufalhafiz/Downloads/bibit-main/src/test/java/Utility/DriverMethods.java
+/Users/naufalhafiz/Downloads/bibit-main/src/test/java/Utils/Locator.java
+/Users/naufalhafiz/Downloads/bibit-main/src/test/java/Utils/PropertiesLoader.java

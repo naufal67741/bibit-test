@@ -1,0 +1,14 @@
+-------------------------------------------------------------------------------
+Test set: Runner.Runner
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.641 s <<< FAILURE! - in Runner.Runner
+Delete a Post(Interview questions for bibit)  Time elapsed: 0.314 s  <<< ERROR!
+org.openqa.selenium.SessionNotCreatedException: 
+Could not start a new session. Response code 500. Message: An unknown server-side error occurred while processing the command. Original error: Could not find a driver for automationName 'Chromium' and platformName 'mac'. Have you installed a driver that supports those capabilities? Run 'appium driver list --installed' to see. (Lower-level error: Driver 'chromium' supports automationName 'Chromium', but Appium could not find support for platformName 'mac'. Supported platformNames are: ["Windows","macOS","Linux"]) 
+Host info: host: 'Naufal-Hafiz.local', ip: 'fe80:0:0:0:4c:47de:3217:11d9%en0'
+Build info: version: '4.33.0', revision: '2c6aaad03a'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '14.3.1', java.version: '17.0.8'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [null, newSession {capabilities=[Capabilities {appium:automationName: Chromium, browserName: chrome, goog:chromeOptions: {"args":["--remote-allow-or..., platformName: mac}]}]
+Capabilities {appium:automationName: Chromium, browserName: chrome, goog:chromeOptions: {"args":["--remote-allow-or..., platformName: mac}
+

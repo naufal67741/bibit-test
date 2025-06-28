@@ -1,0 +1,11 @@
+{
+  "platformName": "Android",
+  "appium:options": {
+    "appium:platformVersion": "11",
+    "appium:deviceName": "Pixel 5",
+    "appium:udid": "emulator-5554",
+    "appium:automationName": "UiAutomator2",
+    "appium:appPackage": "com.saucelabs.mydemoapp.android",
+    "appium:appActivity": "com.saucelabs.mydemoapp.android.view.activities.SplashActivity"
+  }
+}
